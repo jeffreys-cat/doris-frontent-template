@@ -46,7 +46,7 @@ export default function RootLayout({ children }: RootLayoutProps) {
                         content="width=device-width, initial-scale=1"
                     />
                     <meta charSet="utf-8" />
-                    <title>Doris QRCode Tools</title>
+                    <title>Doris Frontend Template</title>
                     <link
                         rel="shortcut icon"
                         href="./favicon.ico"
